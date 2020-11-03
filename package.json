@@ -1,0 +1,10 @@
+{
+  "name": "valiu",
+  "version": "1.0.0",
+  "description": "Backend Technical test",
+  "main": "index.js",
+  "repository": "https://github.com/locojuhi/valiu.git",
+  "author": "Danny Torres <danny.torresxd@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
